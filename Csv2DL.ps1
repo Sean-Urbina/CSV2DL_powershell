@@ -1,4 +1,4 @@
-﻿#This script connects to the clients Exchange Online and adds distribtuion list memembers from a csv for bulk jobs
+﻿#This script connects to Exchange Online and adds distribtuion list memembers from a csv for bulk jobs
 
 #CSV FORMAT
 
